@@ -1,6 +1,6 @@
 # backbase vscode extension README
 
-this extension should provide support for backbase project that built on top of widget architecture 3
+This extension should provide support for backbase project that built on top of widget architecture 3
 
 ## Features
 
