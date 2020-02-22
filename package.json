@@ -1,9 +1,9 @@
 {
 	"name": "backbase-vscode-extension",
-	"displayName": "backbase extension",
+	"displayName": "Backbase extension",
 	"publisher": "AlyAhmedAly",
 	"description": "",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"engines": {
 		"vscode": "^1.42.0"
 	},
@@ -13,7 +13,9 @@
 	},
 	"license": "Apache-2.0",
 	"categories": [
-		"Other"
+		"Other",
+		"Programming Languages",
+		"Linters"
 	],
 	"activationEvents": [
 		"onLanguage:typescript"
