@@ -2,7 +2,7 @@
 
 ## Please note this extension is not official and only maintained by me so feel free to contribute 😎
 
-This extension should provide support for Backbase projects that built on top of widget architecture 3
+This extension should provide support for Backbase projects that built on top of widget architecture 3 [download from Here](https://marketplace.visualstudio.com/items?itemName=AlyAhmedAly.backbase-vscode-extension)
 
 ## Features
 
