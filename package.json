@@ -3,7 +3,7 @@
 	"displayName": "Backbase extension",
 	"publisher": "AlyAhmedAly",
 	"description": "",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"engines": {
 		"vscode": "^1.42.0"
 	},
@@ -38,7 +38,8 @@
 		"pretest": "npm run test-compile && npm run lint",
 		"test": "node ./out/test/runTest.js",
 		"webpack": "webpack --mode development",
-		"webpack-dev": "webpack --mode development --watch"
+		"webpack-dev": "webpack --mode development --watch",
+		"package": "vsce package"
 	},
 	"devDependencies": {
 		"@types/glob": "^7.1.1",
@@ -58,7 +59,7 @@
 		"zone.js": "~0.10.2"
 	},
 	"dependencies": {
-		"backbase-typescript-plugin": "0.0.1-beta.3"
+		"backbase-typescript-plugin": "0.0.1-beta.4"
 	},
 	"peerDependencies": {
 		"@angular/core": "^9.0.2"
