@@ -3,7 +3,7 @@
 	"displayName": "Backbase extension",
 	"publisher": "AlyAhmedAly",
 	"description": "",
-	"version": "0.0.5",
+	"version": "0.0.6",
 	"engines": {
 		"vscode": "^1.42.0"
 	},
@@ -59,7 +59,7 @@
 		"zone.js": "~0.10.2"
 	},
 	"dependencies": {
-		"backbase-typescript-plugin": "0.0.1-beta.5"
+		"backbase-typescript-plugin": "0.0.1-beta.6"
 	},
 	"peerDependencies": {
 		"@angular/core": "^9.0.2"
